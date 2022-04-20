@@ -1,0 +1,4 @@
+https://mui.com/material-ui/getting-started/installation/
+
+yarn add @mui/material @mui/styled-engine-sc styled-components
+yarn add @mui/icons-material
